@@ -7,8 +7,7 @@ export default function App() {
     <div>
         <h1 className='text-center text-blue-300 text-5xl my-7 underline decoration-dotted'>{WEBSITE_NAME}</h1>
         <p className='text-center text-2xl mt-14 mx-16'>{WEBSITE_DESCRIPTION}</p>
-        <img
-         src={Stationary}
+        <img src={Stationary} alt='stationary'
          className='h-[300px] object-cover block mx-auto my-8'/>
 
         <div className='flex justify-center'>
