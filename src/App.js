@@ -1,6 +1,6 @@
 import React from 'react'
 import Stationary from "./stationary.jpg"
-import { WEBSITE_NAME,WEBSITE_DESCRIPTION,SHOP_IMG,BUTTON1,BUTTON2,BUTTON_STYLE } from './config'
+import { WEBSITE_NAME,WEBSITE_DESCRIPTION,BUTTON1,BUTTON2 } from './config'
 
 export default function App() {
   return (
